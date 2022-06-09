@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Weapon
+  - Area
+  - Spawn Point
+  - Walk Point
+  - Boss Enemy
+  - Boss Walk Point
+  - Spawner Enemy
+  - Wall
+  - PenTip
+  - PlayerBody
+  - Projectile
+  - PlayerIndicator
+  - BlueVendingMachine
+  - OrangeVendingMachine
+  - PurpleVendingMachine
+  - GreenVendingMachine
+  - Bic
+  - Door
+  - BossDoor
+  - Charger Enemy
+  - Boss Idle Point
+  - Charger Point
+  - UIUpgrade
+  - Boss Active Point
+  - Start Point
+  - Enemy Projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
